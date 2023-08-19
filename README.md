@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Munna Ram!
 
-![Profile Picture](https://your-profile-picture-url.com)
-
 🧑‍💻 Final Year IT Undergraduate | 🤖 ML Research Intern at NUIG | 💼 Data Science Intern at Pinpencil LLP
 
 📞 +91 7410960911 | 📧 mrthalor912@gmail.com
@@ -40,8 +38,6 @@ I'm Munna Ram, a final year IT undergraduate with a strong passion for Data Scie
 
 ## 🛠️ Skills
 
-![Python](python-logo.png) ![C/C++](c-cpp-logo.png) ![Java](java-logo.png) ![HTML/CSS](html-css-logo.png) ![JavaScript](javascript-logo.png) ![SQL](sql-logo.png)
-
 - **Technical Languages:** Python, C/C++, Java (basic), HTML, CSS, JavaScript, SQL
 - **Frameworks:** Node.js, Scikit-Learn, TensorFlow, Spacy, NLTK, Matplotlib, Pandas, Numpy, TensorFlow-Federated
 - **Academic Knowledge:** Object-oriented programming, Data Structures and Algorithms, Operating Systems, Database Management, Software Engineering Concepts, Designing with UML, Web Development (basic)
@@ -53,7 +49,8 @@ I'm Munna Ram, a final year IT undergraduate with a strong passion for Data Scie
 
 ### URL Classifier (Highlighted Project)
 
-- ![GitHub](github-logo.png) [GitHub Repository](https://github.com/munna0912/URL_CLASSIFIER)
+
+- 📁 [GitHub Repository](https://github.com/munna0912/URL_CLASSIFIER)
 - 🌐 The URL Classifier is a powerful machine learning application designed to classify URLs as safe or malicious.
 - 🔒 Crucial in mitigating cyber threats and phishing attacks.
 - 🚀 Utilizes Natural Language Processing (NLP) and lexical features for robust URL classification. Check it out [here](https://huggingface.co/spaces/Munna0912/URL_CLASSIFIER).
@@ -82,5 +79,10 @@ I'm Munna Ram, a final year IT undergraduate with a strong passion for Data Scie
 - Track progress, manage events, supervise school admissions, and raise funds.
 
 ---
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munna0912&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&exclude_repo=Jekyll-Default-Website&border_radius=10&bg_color=0D1117" alt="gurtaransingh" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=munna0912&theme=react&hide_border=true&include_all_commits=true&count_private=true&line_height=30&show_icons=true&custom_title=Github%20Stats&border_radius=10&bg_color=0D1117" alt="munna0912" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=munna0912&theme=react&hide_border=true&background=0D1117" alt="munna0912" />
+</p>
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/munna-ram-950a5b200/) to explore opportunities and collaborations!
