@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm Munna Ram!
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=munna0912&label=Profile%20views&color=0e75b6&style=flat" alt="munna0912" /> </p>
+
 🧑‍💻 Final Year IT Undergraduate | 🤖 ML Research Intern at NUIG | 💼 Data Science Intern at Pinpencil LLP
 
 📞 +91 7410960911 | 📧 mrthalor912@gmail.com
@@ -7,6 +9,7 @@
 🌍 Based in Kuchaman City, Rajasthan, India
 
 🔗 [LinkedIn](https://www.linkedin.com/in/munna-ram-950a5b200/) | 📂 [GitHub](https://github.com/munna0912)
+
 
 ## 📌 Summary
 
@@ -37,6 +40,8 @@ I'm Munna Ram, a final year IT undergraduate with a strong passion for Data Scie
   - 🎓 Result: 92.33%
 
 ## 🛠️ Skills
+
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 - **Technical Languages:** Python, C/C++, Java (basic), HTML, CSS, JavaScript, SQL
 - **Frameworks:** Node.js, Scikit-Learn, TensorFlow, Spacy, NLTK, Matplotlib, Pandas, Numpy, TensorFlow-Federated
@@ -82,7 +87,13 @@ I'm Munna Ram, a final year IT undergraduate with a strong passion for Data Scie
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munna0912&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&exclude_repo=Jekyll-Default-Website&border_radius=10&bg_color=0D1117" alt="gurtaransingh" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=munna0912&theme=react&hide_border=true&include_all_commits=true&count_private=true&line_height=30&show_icons=true&custom_title=Github%20Stats&border_radius=10&bg_color=0D1117" alt="munna0912" />
+  
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=munna0912&theme=react&hide_border=true&background=0D1117" alt="munna0912" />
 </p>
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/munna-ram-950a5b200/) to explore opportunities and collaborations!
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/munna0912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="munna0912" height="30" width="40" /></a>
+</p>
+
