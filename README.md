@@ -52,7 +52,7 @@ I'm Munna Ram, a final year IT undergraduate with a strong passion for Data Scie
 
 ## 💼 Projects
 
-### URL Classifier (Highlighted Project)
+### URL Classifier
 
 
 - 📁 [GitHub Repository](https://github.com/munna0912/URL_CLASSIFIER)
